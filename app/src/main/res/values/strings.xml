@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Payments App</string>
+    <string name="hint_text_input_user">Логин</string>
+    <string name="hint_text_input_password">Пароль</string>
+    <string name="btn_in_put">Войти</string>
+    <string name="msg_error_login_password">Неверный логин или пароль</string>
+    <string name="msg_error_network">Ошибка получения данных. Проверте подключение к сети</string>
+    <string name="dialog_title">Смена пользователя</string>
+    <string name="msg_dialog">Вы действительно хотите выйти и сменить пользователя?</string>
+    <string name="positive_btn_dialog">Да</string>
+    <string name="negative_btn_dialog">Нет</string>
+    <string name="tv_id_text">id:</string>
+    <string name="tv_amount_text">amount:</string>
+    <string name="tv_created_text">created:</string>
+    <string name="menu_item_change_user">Cменить пользователя</string>
+</resources>
